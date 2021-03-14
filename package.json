@@ -12,6 +12,7 @@
     "shortid": "^2.2.16",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://teejay74.github.io/react3-1/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
